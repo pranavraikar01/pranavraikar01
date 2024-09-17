@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Pranav Raikar</h1>
-<h3 align="center">"Passionate Front-End Developer | Aspiring Full-Stack MERN Enthusiast | Future-Ready for AI/ML and DevOps"</h3>
+<h3 align="center">"Passionate Front-End Developer | Full-Stack MERN Enthusiast | Future-Ready for AI/ML and DevOps"</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranavraikar01&label=Profile%20views&color=0e75b6&style=flat" alt="pranavraikar01" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranavraikar01" alt="pranavraikar01" /></a> </p>
 
-- 🔭 I’m currently working on **Developing my problem solving skills**
+- 🔭 I’m currently working on **Developing advance problem solving skills**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning Advanced **React** Concepts
 
-- 👯 I’m looking to collaborate on **I’m looking to collaborate on Pyhton Automation based projects and Web based projects.**
+- 👯 I’m looking to collaborate on **I’m looking to collaborate on Pyhton Automation based projects and Web based projects in MERN stack.**
 
-- 💬 Ask me about **Html,CSS,Javscript,Java,C Programming,Python,Problem solving**
+- 💬 Ask me about **Html,CSS,Javscript,Java,React,C Programming,Python,Problem solving**
 
 - 📫 How to reach me **pranavraikar01@gmail.com**
 
